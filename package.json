@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Creates a directory of files with different timestamps for testing purposes.",
   "main": "index.js",
+  "scripts": {
+    "test": "test ./test/"
+  }
   "repository": {
     "url": "https://github.com/RyanDavison/create-test-files.git",
     "type": "git"
